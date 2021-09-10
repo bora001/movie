@@ -1,4 +1,4 @@
-# React Project with nomadCoder Class
+# React Project with Nomad Coder Class
 https://nomadcoders.co/react-fundamentals/
 
 # final
